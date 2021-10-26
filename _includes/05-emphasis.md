@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Interested in devising a better _problem-solving_ method for challenging tasks, and learning *new technologies and tools* if the need arises.
